@@ -114,12 +114,10 @@ To use the SD10 dataset with YOLO models, follow these steps:
 
 ## License
 
-This dataset is released under the [LICENSE] license.
+This dataset is released under the [MIT] license.
 
 ## Contact
 
 For any questions or suggestions, please open an issue on the GitHub repository or contact [2871561809@qq.com](mailto:2871561809@qq.com).
 
 ---
-
-**
